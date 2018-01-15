@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: example Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jorge
+Implementation-Vendor-Id: com.w4c
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
