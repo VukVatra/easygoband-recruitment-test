@@ -4,8 +4,7 @@
 <html lang="en" ng-app="easyGoBandApp">
 <head>
 
-<link rel="stylesheet" type="text/css"
-	href="webjars/bootstrap/3.3.7/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="webjars/bootstrap/3.3.7/css/bootstrap.min.css" />
 <link rel="stylesheet" href="/js/angular/select2/angular/select.css">
 
 <c:url value="/css/main.css" var="jstlCss" />
